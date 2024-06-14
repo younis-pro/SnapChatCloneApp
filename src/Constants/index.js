@@ -1,0 +1,1 @@
+export const GOOGLE_KEY = "put your google key"
